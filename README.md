@@ -12,3 +12,5 @@ I’m a passionate mobile developer, specializing in React Native, Java, and Kot
 ![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
 
 🚀 Check out my GitHub for projects: [rahultripathi-dev](https://github.com/rahultripathi-dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rahultripathi-dev)](https://git.io/streak-stats)
